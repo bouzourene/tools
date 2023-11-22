@@ -7,6 +7,11 @@
 			Piscine
 		</a>
 	</li>
+	<li>
+		<a href="tv7_m3u.php">
+			TV7 M3U
+		</a>
+	</li>
 </ul>
 
 <?php require "_footer.php"; ?>
